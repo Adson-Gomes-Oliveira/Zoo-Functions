@@ -40,7 +40,7 @@ Funções para gerenciamento de um zoologico, projeto utilizado para praticar o 
 
 >Primeiro faça o clone deste repositório em sua maquina.
 ```
-git clone git@github.com:Adson-Gomes-Oliveira/Zoo-Functions
+git clone git@github.com:Adson-Gomes-Oliveira/Zoo-Functions.git
 ```
 >Utilize o comando `npm install` caso queira utilizar o lint no projeto.
 
